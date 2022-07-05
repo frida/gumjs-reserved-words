@@ -1,6 +1,6 @@
 {
   "name": "@frida/reserved-words",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "ECMAScript reserved words checker",
   "publishConfig": {
     "access": "public"
