@@ -6,6 +6,7 @@
     "access": "public"
   },
   "main": "lib/index.js",
+  "type": "module",
   "scripts": {
     "test": "jshint && jscs lib test && mocha"
   },
